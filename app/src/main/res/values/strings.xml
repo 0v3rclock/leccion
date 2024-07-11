@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">leccion</string>
+    <string name="aplicacion">aplicacion</string>
+    <string name="igrese_la_nota">igrese la nota a verificar</string>
+    <string name="ingrese_el_numero_de_la_nota">ingrese el numero de la nota</string>
+    <string name="verificar_nota">verificar nota</string>
+</resources>
